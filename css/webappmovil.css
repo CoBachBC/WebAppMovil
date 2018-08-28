@@ -1,17 +1,26 @@
-#principal{background: linear-gradient(to bottom, #005ec4 1%,#ffffff 50%,#00387c 50%,#7db9e8 100%);
+#principal{background: linear-gradient(to bottom, #005ec4 1%,#ffffff 30%,#00387c 30%,#7db9e8 100%);
 max-width: 100%;
 width: 100%;}
 
-#descripcion{color:#fff;
-height: 100%;
-padding: 3rem;
-height: 100%;
-min-height: 100%;}
+#descripcion{padding: 3rem;}
 #descripcion img{max-width: 100%;}
-#descripcion p{font-size: 2.15rem;}
+#descripcion p{font-size: 3.15rem;
+background: rgba(255, 255, 255, .65);
+padding: 2.5rem;
+margin: 2.5rem;
+border-radius: 1.5rem;
+font-weight: bold;}
 
 #heroe{padding: 3rem;}
 #heroe img{max-width: 100%;}
+
+#detalles{background: #fff;
+padding-left: 4rem;
+padding-right: 4rem;}
+#detalles .three{padding:4rem 0;
+text-align: center;}
+#detalles p{font-size: 2.25rem;}
+
 
 .img-centro{display: block;
 margin: auto;}
