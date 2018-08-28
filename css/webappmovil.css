@@ -27,7 +27,7 @@ margin: auto;}
 
 /* Larger than mobile */
 @media (min-width: 400px) {
-    #descripcion p{font-size: .95rem;
+    #descripcion p{font-size: 1.75rem;
     padding: 2.5rem;
     margin: 2.5rem;
     border-radius: 1.5rem;}
@@ -35,7 +35,7 @@ margin: auto;}
 
 /* Larger than phablet (also point when grid becomes active) */
 @media (min-width: 550px) {
-    #descripcion p{font-size: 1.15rem;
+    #descripcion p{font-size: 1.95rem;
     padding: 2.5rem;
     margin: 2.5rem;
     border-radius: 1.5rem;}
