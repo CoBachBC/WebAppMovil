@@ -1,4 +1,4 @@
-#principal{background: linear-gradient(to bottom, #005ec4 1%,#ffffff 30%,#00387c 30%,#7db9e8 100%);
+#principal{background: linear-gradient(to bottom, #005ec4 1%,#ffffff 20%,#00387c 20%,#7db9e8 100%);
 max-width: 100%;
 width: 100%;}
 
@@ -9,18 +9,21 @@ padding: 2.5rem;
 margin: 2.5rem;
 border-radius: 1.5rem;
 font-weight: bold;}
+#descripcion img{max-width: 100%;}
 
 #heroe{padding: 9rem 3rem 3rem 3rem;}
 #heroe img{max-width: 100%;}
 
-#detalles{background: #fff;
+#detalles{background: #b08e73;
+color: #fff;
 padding-left: 4rem;
 padding-right: 4rem;}
 #detalles .three{padding:4rem 0;
 text-align: center;}
 #detalles p{font-size: 2.25rem;}
 
-#soporte{background: #b08e73;
+#soporte{border-top: solid 5px #b08e73;
+background: #fff;
 padding-left:3rem;
 padding-right:3rem;
 padding-top:3rem;}
